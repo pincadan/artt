@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+Made by Nevr@x 2025
 Advanced Red Team Toolkit (ARTT)
 A comprehensive suite of tools for penetration testing and red team operations.
 
@@ -260,7 +261,7 @@ def main():
     print("""
     ╔════════════════════════════════════════════════════════╗
     ║              Advanced Red Team Toolkit (ARTT)          ║
-    ║                 Penetration Testing Framework          ║
+    ║                 Made by Nevr@x 2025                    ║
     ╚════════════════════════════════════════════════════════╝
     """)
     
